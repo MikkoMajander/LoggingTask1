@@ -1,5 +1,7 @@
-I started by setting up a basic Node.js project as instructed with the commands:
-git init
+I started by setting up a basic Node.js project as instructed with the commands: 
+
+git init 
+
 npm init -y
 
 Then I installed Winston with the command:
