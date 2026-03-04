@@ -19,3 +19,5 @@ After running the program, I checked the console, and saw the info, warn and err
 Then I checked the program-created logs directory. Two files had been added: combined.log and error.log.
 Combined.log contained all the messages, while error.log contained only the error-messages.
 This meant that everything worked as intended.
+
+I also accidentally added the logs directory to the repository and for some reason I can't delete it so sorry about that.
